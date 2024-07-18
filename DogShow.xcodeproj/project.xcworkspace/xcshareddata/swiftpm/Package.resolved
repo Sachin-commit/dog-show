@@ -1,0 +1,15 @@
+{
+  "originHash" : "cd547616184e7c2a2e1488cfb3a5ce0cf06e844f535720ec690e898dad2764f0",
+  "pins" : [
+    {
+      "identity" : "mydogimagepackagelibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Sachin-commit/MyDogImagePackageLibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "76074690763996a770d73ac1116c5b9bcecc2a68"
+      }
+    }
+  ],
+  "version" : 3
+}
